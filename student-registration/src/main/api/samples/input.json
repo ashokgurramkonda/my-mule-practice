@@ -1,0 +1,13 @@
+{
+  "studentName": "Ashok",
+  "age": 5,
+  "bloodGroup": "B+",
+  "currentGrade": "1",
+  "requestedGrade": "2",
+  "familyDetails": {
+    "fatherName": "Narasimhulu",
+    "address" : "Bellandur",
+    "contactNumber": 9494100276
+  },
+  "feePaid": 20000.01
+}
